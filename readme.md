@@ -1,2 +1,2 @@
 # css.structure
-How to structure a Sass project
+How to structure a Sass Multisite Multidevice project
