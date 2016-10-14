@@ -1,1 +1,9 @@
-// manifest.site-1.desktop.scss
+// Site 1 Desktop Manifest
+
+// Variables
+@import 'vars';
+@import 'ui/mobile/vars.desktop';
+@import 'ui/site-1.mobile/vars.site-1.desktop';
+
+@import 'manifest';
+@import 'ui/manifest.site-1.desktop/main';
